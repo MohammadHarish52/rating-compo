@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.stars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.star{
+    font-size:40px;
+    padding:5px;
+    color:gray;
+    cursor:pointer;
+}
+.star-filled{
+    color:yellow;
+}
